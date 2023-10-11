@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Flight>
+  <Airline>SAS</Airline> #String
+  <FlightNo>112</FlightNo> #String
+  <Origin>CPH</Origin> #String
+  <Destination>JFK</Destination> #String
+  <ArivalTime>16:45</ArivalTime> #H00,M00 String
+  <ArivalDate>01,01,2000</ArivalDate> #D00,M00,Y0000 String
+</Flight>

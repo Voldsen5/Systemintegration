@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CBPArrivalInfo>
+  <Flight number="SK937" Flightdate="20170225">
+    <Origin>ARLANDA</Origin>
+    <Destination>Bluff City International</Destination>
+  </Flight>
+  <Passenger>
+    <FirstName>Anders</FirstName>
+    <LastName>And</LastName>
+    <DayOfBirth>June 9th 1934</DayOfBirth>
+    <Height>2’9”</Height>
+    <Sex>D</Sex>
+  </Passenger>
+  <Passport>
+    <PassNo>200305252</PassNo>
+    <Nationality>DK</Nationality>
+  </Passport>
+  <Passport>
+    <PassNo>326725295</PassNo>
+    <Nationality>US</Nationality>
+  </Passport>
+</CBPArrivalInfo>
